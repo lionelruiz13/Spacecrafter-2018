@@ -1,0 +1,75 @@
+#Makefile
+Makefile.in
+Makefile
+
+#windows related
+/include/*
+*.cbp
+*.depend
+*.layout
+
+
+#cmake
+build
+
+
+# Gettext
+.deps/*
+*.Po
+*.po
+*.o
+po/*
+
+# Prerequisites
+*.d
+
+# Compiled Object files
+*.slo
+*.lo
+*.o
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Fortran module files
+*.mod
+*.smod
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+*.lib
+
+# users files
+*.bmp
+*.log
+*.ojm
+*.obj
+*.mtl
+*.zip
+
+
+# Executables
+*.exe
+*.out
+*.app
+/util/starviewer2/starviewer
+/util/starviewer2/construit_catalogue
+/util/Obj3D/converter
+/util/Obj3D/extract_sphere
+/util/server_standalone/sender_client
+/util/obj_viewer/quats
+/util/parser_scripts/parser-1.2
+/util/parser_scripts/parser-1.1-modi
+/util/parser_scripts/parser-1.1
+/util/Atmosphere1/src/test
+*.png
+/.vscode/launch.json
+/.vscode/tasks.json
