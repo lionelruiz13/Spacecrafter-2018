@@ -25,11 +25,11 @@ sudo apt-get install -y make
 sudo apt-get install -y g++
 sudo apt-get install -y cmake
 #player vidéo
-sudo apt-get install -y libavcodec-dev
-sudo apt-get install -y libavformat-dev
-sudo apt-get install -y libavutil-dev
-sudo apt-get install -y libswscale-dev
-sudo apt-get install -y libavfilter-dev
+#sudo apt-get install -y libavcodec-dev
+#sudo apt-get install -y libavformat-dev
+#sudo apt-get install -y libavutil-dev
+#sudo apt-get install -y libswscale-dev
+#sudo apt-get install -y libavfilter-dev
 
 sudo apt-get install -y mplayer
 
